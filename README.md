@@ -35,7 +35,6 @@ These reference images were used to study the dot-painting style and extract the
 
 The extracted RGB values were saved in `color_list`, so the program does not need to process the images every time it runs.
 
-> **Important:** Keep `blob_image.jpg` and `image.jpg` in the same GitHub folder as `README.md` so the images are displayed correctly.
 
 ---
 
@@ -347,6 +346,3 @@ The program is an educational coding exercise and is not an official reproductio
 
 ---
 
-## 👩‍💻 Author
-
-Created as part of my Python learning journey.
